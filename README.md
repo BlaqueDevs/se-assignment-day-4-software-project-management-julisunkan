@@ -93,23 +93,23 @@ Both methodologies have their place depending on project requirements, client ne
 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
- #Methods for Ensuring Quality Assurance:#
-1. Automated Testing: Implement automated tests for continuous integration to quickly identify and fix issues.
+ # Methods for Ensuring Quality Assurance:
+1. *Automated Testing:* Implement automated tests for continuous integration to quickly identify and fix issues.
 2. Code Reviews: Conduct regular peer reviews to catch defects early and ensure adherence to coding standards.
 3. Test-Driven Development (TDD): Write tests before coding to ensure that code meets requirements and functions correctly.
 4. Continuous Integration/Continuous Deployment (CI/CD): Use CI/CD pipelines to integrate and deploy code changes frequently, ensuring early detection of integration issues.
-   Importance of Maintaining High Standards:
+ # Importance of Maintaining High Standards:
 Maintaining high standards ensures that software is reliable, performs well, and meets user expectations. It also reduce the likelihood of defects and costly post-release fixes. It also builds trust with stakeholders and customers, enhancing the product's reputation and longevity.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-    Defining the Project Scope:
+  # Defining the Project Scope:
 Defining the project scope is crucial for successful project planning as it outlines the project's objectives, deliverables, boundaries, and requirements. This clarity helps in setting realistic goals, managing stakeholder expectations, and preventing scope creep, ensuring the project stays focused and on track.
 
-Work Breakdown Structure (WBS):
+  # Work Breakdown Structure (WBS):
 A Work Breakdown Structure (WBS) is a hierarchical decomposition of the project's deliverables and tasks into smaller, manageable components. It is useful because it helps organize and define the total scope of the project, facilitates detailed planning and scheduling, and provides a clear structure for assigning responsibilities and tracking progress.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-Benefits of Developing a Detailed Project Schedule:
+# Benefits of Developing a Detailed Project Schedule:
 Improved Planning: A detailed schedule helps allocate resources effectively, set realistic timelines, and identify dependencies between tasks.
 Enhanced Monitoring: It provides a baseline for tracking progress, managing milestones, and adjusting plans as needed.
 Better Communication: Clear timelines and deadlines help align team members and stakeholders, improving coordination and transparency.
@@ -118,7 +118,7 @@ Gantt Charts:
 Gantt charts assist by visually representing the project schedule, showing tasks, durations, and dependencies in a timeline format. They make it easy to track progress, identify potential delays, and understand how tasks overlap or impact each other, facilitating better project management and adjustments.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
- The core issues our software aims to address are:
+ # The core issues our software aims to address are:
 Inefficient Workflow Management: Streamlining processes and automating repetitive tasks to enhance productivity and reduce manual errors.
 Lack of Integration: Providing seamless integration with existing tools and systems to improve data consistency and communication.
 Limited Analytics and Reporting: Offering advanced analytics and reporting features to help users make informed decisions and track performance effectively.
