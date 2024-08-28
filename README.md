@@ -93,7 +93,7 @@ Both methodologies have their place depending on project requirements, client ne
 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
- Methods for Ensuring Quality Assurance:
+ #Methods for Ensuring Quality Assurance:#
 1. Automated Testing: Implement automated tests for continuous integration to quickly identify and fix issues.
 2. Code Reviews: Conduct regular peer reviews to catch defects early and ensure adherence to coding standards.
 3. Test-Driven Development (TDD): Write tests before coding to ensure that code meets requirements and functions correctly.
